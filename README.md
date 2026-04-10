@@ -104,7 +104,7 @@ This project is intended for educational purposes only. All testing was performe
 
 ## 👨‍💻 Author
 
-Aditya Mehta
+**Aditya Mehta**  
 Cybersecurity Enthusiast
 
 ---
