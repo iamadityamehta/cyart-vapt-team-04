@@ -6,6 +6,12 @@ This repository contains a comprehensive Vulnerability Assessment and Penetratio
 
 ---
 
+## 📌 Internship Context
+
+This task was completed as a part of my Vulnerability Assessment and Penetration Testing (VAPT) Internship at Cyart Technologies in April 2026.
+
+---
+
 ## 🎯 Objectives
 
 * Understand advanced exploitation and exploit chaining
@@ -99,5 +105,6 @@ This project is intended for educational purposes only. All testing was performe
 ## 👨‍💻 Author
 
 Aditya Mehta
-B.E. Information Technology
 Cybersecurity Enthusiast
+
+---
